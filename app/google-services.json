@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "473742218371",
+    "firebase_url": "https://uberprac-1cb49.firebaseio.com",
+    "project_id": "uberprac-1cb49",
+    "storage_bucket": "uberprac-1cb49.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473742218371:android:8afb7d0b717c31fa",
+        "android_client_info": {
+          "package_name": "com.example.uberprac"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "473742218371-2kfl6j6tlnll0ri1qc8ohncqk9kfppik.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.uberprac",
+            "certificate_hash": "9059d08a18338d6a500d15c35ebe26cc9e0b4dc4"
+          }
+        },
+        {
+          "client_id": "473742218371-punm81pvbgr13a5nauhnfn86ok4m5laa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBL3zbxmYlm52xfM1kOSYzFW8B4IfG1JoE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "473742218371-punm81pvbgr13a5nauhnfn86ok4m5laa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
